@@ -1,0 +1,20 @@
+# Large CSV — disponibilizado pela disciplina, não vai pro repo
+dados/*.csv
+!dados/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Editor lock files
+~$*
+*.lock
+
+# Notebooks executados (versão de trabalho)
+*.executed.ipynb
+
+# Sistema
+.DS_Store
+Thumbs.db
